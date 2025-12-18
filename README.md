@@ -70,7 +70,7 @@ Start the Customer Frontend:
 cd frontend  
 npm run dev  
 
-The application will typically run at http://localhost:5173.
+The application will typically run at (https://food-del-frontend-41e2.onrender.com/).
 
 Start the Admin Panel:  
 cd admin  
